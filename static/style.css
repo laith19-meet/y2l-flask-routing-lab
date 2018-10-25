@@ -1,1 +1,23 @@
-/* Put your CSS Styling here! */
+body{
+
+	background-color:green;
+
+
+}
+body {
+    background-image:url("https://imagescdn.simons.ca/images/15185-130-91-A1_2/hydrangeas-earrings.jpg?__=1");
+
+}
+
+.shop{
+	left: 10px;
+	top: 50px;
+	color: red;	
+	font-size: 70px;
+}
+
+.why{
+	font-size: 20px;
+	left: 50;
+
+}
